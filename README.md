@@ -1,2 +1,2 @@
 # vertical_farming
-Tryint to explore the data from kaggle
+Exploring the data from kaggle
